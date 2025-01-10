@@ -32,4 +32,4 @@
     홀수입니다.
 
 #### 풀이
-<a href="">OddorEven.py</a>
+<a href="https://github.com/solji622/Coding-Test-for-Python/blob/main/1st-week/OddorEven.py">OddorEven.py</a>
